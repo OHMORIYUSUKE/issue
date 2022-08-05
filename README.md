@@ -1,0 +1,3 @@
+```sh
+githubCsvTools --exportComments --exportAll
+```
