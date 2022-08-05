@@ -1,3 +1,8 @@
+# issue
+
 ```sh
-githubCsvTools --exportComments --exportAll
+# npm install
+$ npm install
+# csvを作成
+$ npm run githubCsvTools --exportComments --exportAll
 ```
